@@ -36,3 +36,14 @@ rendre visible à celles et ceux qui veulent situer leur propre budget de Noël 
 moyenne nationale — pas pour donner un conseil d'économie.
 
 ![Visuel](./pin.png)
+
+## La série « On a compté »
+
+Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
+
+- [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)
+- [19 293 € : le budget moyen d'un mariage en France](https://github.com/VincentChabran/combien-coute-un-mariage)
+- [1 239,56 € : le coût de revient d'un déménagement de 27 m³](https://github.com/VincentChabran/combien-coute-un-demenagement)
+- [488 € : le budget d'une rentrée scolaire 2026](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
+- [1 748 € : le budget des vacances d'été 2026](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
+
