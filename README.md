@@ -1,3 +1,4 @@
+SHA: e6c9c9704fa3e5f1900cb03b89ef147aed930ab3
 # Combien coûte Noël ?
 
 **491 €** : c'est le budget moyen que les Français prévoyaient pour Noël 2025 — le niveau le plus
@@ -29,6 +30,34 @@ Aucun chiffre de ce document n'a été recalculé ou extrapolé : ils sont recop
 par l'institut. Les postes décorations/transports/tenues ne sont pas détaillés individuellement
 dans l'étude — ce dépôt ne leur invente donc aucun montant.
 
+## Un chiffre officiel complémentaire : la Prime de Noël
+
+Il existe une aide d'État qui porte exactement ce nom, mais elle ne s'adresse pas au même public
+que le budget de 491 € ci-dessus. Vérifié directement sur **info.gouv.fr** (« Prime de Noël 2025 :
+montant, date de versement et bénéficiaires », publié le 3 décembre 2025) :
+
+| Situation | Montant |
+|---|---|
+| Bénéficiaire du RSA, personne seule | **152,45 €** |
+| Bénéficiaire du RSA, couple sans enfant ou personne seule avec 1 enfant | **228,68 €** |
+| Bénéficiaire du RSA, couple avec 1 enfant ou personne seule avec 2 enfants | **274,41 €** |
+| Bénéficiaire du RSA, couple avec 2 enfants | **320,15 €** |
+| Majoration par enfant supplémentaire | **+ 60,98 €** |
+| Bénéficiaire de l'ASS ou de l'AER (forfait unique, quel que soit le foyer) | **152,45 €** |
+
+Versée automatiquement (aucune démarche à faire) à partir du **16 décembre 2025**, par la CAF pour
+le RSA, la MSA pour les allocataires agricoles, et France Travail pour l'ASS/l'AER. Non imposable.
+
+**Ce chiffre ne se soustrait pas au budget de 491 €** : ce n'est pas une aide versée à tous les
+ménages qui fêtent Noël, mais une aide exceptionnelle réservée aux bénéficiaires de minima sociaux
+(RSA, ASS, AER), pensée pour soutenir leur pouvoir d'achat aux fêtes — pas pour financer le budget
+cadeaux/repas moyen mesuré par l'étude CSA/Cofidis ci-dessus. Les deux chiffres cohabitent sans se
+comparer terme à terme, à la différence des rapprochements PAJE ou ARS faits sur d'autres dépôts de
+cette série, qui portaient sur le même public.
+
+Source : https://www.info.gouv.fr/actualite/prime-de-noel-2025-montant-date-de-versement-et-beneficiaires
+(lue le 2026-08-15)
+
 ## À propos
 
 Ce dépôt accompagne une épingle Pinterest (compte `orvaladigital`) qui reprend ce chiffre pour le
@@ -54,3 +83,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [85 € (étude 2024)](https://github.com/VincentChabran/combien-coute-halloween)
 - [4 730 €](https://github.com/VincentChabran/combien-coute-des-obseques)
 - [138 € à 344 €/mois de reste à charge selon le mode (2024)](https://github.com/VincentChabran/combien-coute-la-garde-d-enfant)
+
