@@ -1,3 +1,5 @@
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-noel.pages)
+
 SHA: e6c9c9704fa3e5f1900cb03b89ef147aed930ab3
 # Combien coûte Noël ?
 
